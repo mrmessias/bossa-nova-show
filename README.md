@@ -20,7 +20,7 @@ O projeto foi desenvolvido na plataforma **FlutterFlow**, que **não permite o c
 
 ## **Vídeo de Demonstração**
 Para facilitar a avaliação, um vídeo de demonstração do funcionamento do aplicativo foi gravado. Nele, todas as funcionalidades foram apresentadas.  
-**Link para o vídeo:** [Insira o link do vídeo aqui]
+**Link para o vídeo:** [Apresentação Bossa Nova Show](https://www.youtube.com/watch?v=Pcf8v6irOYY)
 
 ## **Tecnologias Utilizadas**
 - **FlutterFlow:** Ferramenta de desenvolvimento visual para aplicativos Flutter.
