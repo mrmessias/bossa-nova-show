@@ -10,7 +10,7 @@ O **Bossa Nova Show** é um aplicativo dedicado a catalogar e explorar os melhor
 - **Excluir Shows:** Remoção de shows do catálogo.
 
 ## **Por que este repositório não contém o código?**
-O projeto foi desenvolvido na plataforma **FlutterFlow**, que **não permite o compartilhamento direto do código-fonte** ou exportação automatizada para repositórios como o GitHub em contas padrão. Portanto:
+O projeto foi desenvolvido na plataforma **FlutterFlow**, que **não permite o compartilhamento direto do código-fonte** ou exportação automatizada para repositórios como o GitHub em contas gratuitas. Portanto:
 - O **professor já foi adicionado diretamente ao projeto no FlutterFlow** para acessar os dados e realizar as avaliações.
 - Para acessar, o professor pode verificar o painel do FlutterFlow com as permissões atribuídas.
 
